@@ -22,4 +22,5 @@ const CommentList = ({ postId }) => {
 
   return renderedComments;
 };
+
 export default CommentList;
